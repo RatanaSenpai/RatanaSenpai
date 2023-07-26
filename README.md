@@ -1,6 +1,8 @@
 
 ## Bienvenue sur mon profil GitHub ! 👋
 
+**`Developpeur JS React`**
+
 Salut, je suis Ratana 👨‍💻
 
 Passionné par le monde du développement web et de la création, je suis ravi de vous accueillir sur mon GitHub. Je viens tout juste de terminer une passionnante reconversion de 6 mois en tant que développeur front-end spécialisé en JavaScript et React.
@@ -26,8 +28,14 @@ Visual Studio Code, Git, Webpack
 
 Projets remarquables
 
-Au fil de ma reconversion chez OpenClassRomms, j'ai eu la chance de travailler sur des projets intéressants qui ont renforcé mes compétences en développement front-end. En voici quelques-uns
+Au fil de ma reconversion chez OpenClassRooms, j'ai eu la chance de travailler sur des projets intéressants qui ont renforcé mes compétences en développement front-end. En voici quelques-uns sur la page
 
 Je suis actuellement à la recherche d'opportunités passionnantes en tant que développeur front-end. J'aimerais continuer à apprendre, collaborer sur des projets innovants et contribuer à des équipes dynamiques.
 
 Merci d'avoir pris le temps de découvrir mon profil GitHub. J'ai hâte de pouvoir collaborer avec des passionnés du web comme vous ! 😊
+
+#
+
+### 📊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RatanaSenpai&show_icons=true&theme=radical)
