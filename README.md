@@ -5,7 +5,7 @@
 
 Salut, je suis Ratana 👨‍💻
 
-Passionné par le monde du développement web et de la création, je suis ravi de vous accueillir sur mon GitHub. Je viens tout juste de terminer une passionnante reconversion de 6 mois en tant que développeur front-end spécialisé en JavaScript et React.
+Passionné par le monde du développement web et de la création, je suis ravi de vous accueillir sur mon GitHub. Je viens tout juste de terminer une passionnante reconversion de 6 mois à distance sur OpenClassRooms en tant que développeur front-end spécialisé en JavaScript et React.
 
 À propos de moi
 
